@@ -2,7 +2,7 @@
 
 	<div class="section page">
 
-		<h1>Contact</h1>
+		<h1>Mike&rsquo;s Full Catalog Of Shirts</h1>
 
 	</div>
 
